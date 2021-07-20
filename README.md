@@ -1,4 +1,4 @@
-# APP_ConversorDeMoeda
+# APP Converso de Moeda.
 
 Criação de um APP para conversão de moedas.
 
